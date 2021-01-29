@@ -2,7 +2,7 @@ module.exports = {
   title: 'DeQua Docs',
   tagline: 'Voi i soldini, noi dequa!',
   url: 'https://dequa-github.io',
-  baseUrl: '/',
+  baseUrl: '/docu/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/dequa_logo.png',
