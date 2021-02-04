@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[22],{94:function(o){o.exports=JSON.parse('{"allTagsPath":"/dequa-docs/blog/tags","slug":"facebook","name":"facebook","count":1,"permalink":"/dequa-docs/blog/tags/facebook"}')}}]);

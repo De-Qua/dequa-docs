@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[8],{78:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome","permalink":"/dequa-docs/blog/welcome"},{"title":"Hello","permalink":"/dequa-docs/blog/hello-world"},{"title":"Hola","permalink":"/dequa-docs/blog/hola"}]}')}}]);
