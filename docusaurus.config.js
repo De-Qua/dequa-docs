@@ -2,12 +2,12 @@ module.exports = {
   title: 'DeQua Docs',
   tagline: 'Voi i soldini, noi dequa!',
   url: 'https://dequa-github.io',
-  baseUrl: '/docu/',
+  baseUrl: '/dequa-docs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/dequa_logo.png',
   organizationName: 'de-qua', // Usually your GitHub org/user name.
-  projectName: 'docu', // Usually your repo name.
+  projectName: 'dequa-docs', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: '',
