@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'DeQua Docs',
+  title: 'How to DeQua',
   tagline: 'Voi i soldini, noi dequa!',
   url: 'https://dequa-github.io',
   baseUrl: '/dequa-docs/',

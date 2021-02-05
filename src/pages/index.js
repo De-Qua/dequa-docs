@@ -21,7 +21,7 @@ const features = [
     imageUrl: 'img/undraw_docusaurus_tree.svg',
     description: (
       <>
-        Check what is happening behind the hood! Read the Documentation page or our blog to understand! We do not save your data nor we sell it to someone else for profit! 
+        Check what is happening behind the hood! Read the Documentation page or our blog to understand! We do not save your data nor we sell it to someone else for profit!
       </>
     ),
   },
@@ -30,7 +30,7 @@ const features = [
     imageUrl: 'img/undraw_docusaurus_react.svg',
     description: (
       <>
-        A great group of people lies behind this project. Ask them and they will help you. 
+        A great group of people lies behind this project. Ask them and they will help you.
       </>
     ),
   },
@@ -56,7 +56,7 @@ function Home() {
   const {siteConfig = {}} = context;
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
+      title={`${siteConfig.title}`}
       description="Description will go into a meta tag in <head />">
       <header className={clsx('hero hero--primary', styles.heroBanner)}>
         <div className="container">
